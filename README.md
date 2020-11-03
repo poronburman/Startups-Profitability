@@ -1,4 +1,4 @@
-# Startups-Profitability
+# Startups Profitability
 
 1. This project analyzes various features of 50 start up companies and uses various regression models to find the most profitable startup company to invest in.
 
