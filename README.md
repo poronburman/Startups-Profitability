@@ -1,1 +1,3 @@
 # Startups-Profitability
+
+1. 
