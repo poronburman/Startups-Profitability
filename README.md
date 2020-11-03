@@ -14,4 +14,4 @@
 
 3. Here are the R squared score of the different regression models used in this analysis.
 
-     ![](figure/s_r2_score.png)
+                 ![](figure/s_r2_score.png)
